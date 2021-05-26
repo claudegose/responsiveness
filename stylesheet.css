@@ -14,11 +14,13 @@ body {
     body{
         background-color: #CCFF33;
     }
+
 }
 @media screen and (min-width: 1024px){
     body {
         background-color: #3366FF ;
     }
+
 }
 
 
@@ -42,6 +44,7 @@ body {
         text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
         letter-spacing: 3px;
     }
+
     .Large {
         display: block;
         grid-template-columns: 250px 1fr;
